@@ -8,26 +8,6 @@ h1 {
     text-align: center;
 }
 
-.resume-section {
-    text-align: center;
-    margin: 20px 0;
-    padding: 15px;
-    background: white;
-    border-radius: 10px;
-}
-
-.resume-section a {
-    color: #7C92A2;
-    text-decoration: none;
-    font-weight: bold;
-    margin: 0 15px;
-}
-
-.resume-section a:hover {
-    color: #7e0ec9;
-    text-decoration: underline;
-}
-
 .projects {
     display: flex;
     flex-wrap: wrap;
@@ -46,5 +26,6 @@ h1 {
     height: 300px;
     margin: 10px;
     border: 2px solid rgb(126, 14, 201);
+    /* choose a color */
     display: block;
 }
